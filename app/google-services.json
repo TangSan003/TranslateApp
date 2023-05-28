@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569794659562",
+    "project_id": "tranlastorappfinal",
+    "storage_bucket": "tranlastorappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569794659562:android:ddb49662f3b72b50760393",
+        "android_client_info": {
+          "package_name": "android.app.translate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATgB0Go_qE7a6Jx0mygPUlfA9VmoeXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
