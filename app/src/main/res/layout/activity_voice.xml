@@ -86,10 +86,10 @@
             android:layout_margin="10dp">
 
             <TextView
-                android:id="@+id/result_translate"
+                android:id="@+id/result_translate_voice"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Translator..."
+                android:text="Translate"
                 android:textSize="20dp"/>
 
         </LinearLayout>
@@ -103,7 +103,7 @@
             android:gravity="center">
 
             <Button
-                android:id="@+id/button_translate_english"
+                android:id="@+id/button_translate_english_voice"
                 android:layout_width="170dp"
                 android:layout_height="match_parent"
                 android:text="English"
@@ -124,7 +124,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/button_translate_tieng_viet"
+                android:id="@+id/button_translate_tieng_viet_voice"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Tiếng Việt"
